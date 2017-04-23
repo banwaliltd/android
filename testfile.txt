@@ -1,0 +1,3 @@
+my first attempt to check git cloning from window text file to github account
+all the best pktoshik
+ 
